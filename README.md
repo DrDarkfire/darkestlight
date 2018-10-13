@@ -26,3 +26,12 @@ The premise: your goal is to survive until the timer runs out
 - Score Algorithm (timeSurvived/modeTime) 
 ### Eternal Night
 The premise: beat as many rooms as you can
+- Game is over when you and your party die.
+- Score calculated by (1 + 0.05 * x) * y + 10 * y
+  - x is the rooms cleared
+  - y is number of kills
+  - z is torches lit
+### Fend off the night
+THe premise: keep the beacons lit while fending off the horde
+- Game is over when you and your party die, or all the beacons are destroyed
+- Your score is your time
