@@ -2,3 +2,7 @@ https://www.raywenderlich.com/2015-creating-a-cross-platform-multiplayer-game-in
 https://unity3d.com/unity/features/multiplayer
 https://docs.unity3d.com/Manual/UNet.html
 https://docs.unity3d.com/Manual/UNetClientServer.html
+https://docs.unity3d.com/Manual/UnityMultiplayerSettingUp.html
+https://unity3d.com/partners/microsoft/creators-program
+https://unity3d.com/unity/features/multiplayer
+https://support.unity3d.com/hc/en-us/articles/360001252086-UNet-Deprecation-FAQ?_ga=2.68243346.288501757.1540999293-531397098.1540999293
