@@ -18,7 +18,7 @@ The premise: your goal is to survive until the timer runs out
   - 30 minutes
   - 1 hour
   - 2 hours
-  - 4 hours 
+  - 4 hours (these two very long ones are more for streamers than your average play time/get together with friends)
   - 8 hours
 - For games an hour or longer, an intermission will be given every 30 minutes and requires
 - The horde comes in waves. 30 second loot phases every 5 waves for you to buff your stats
